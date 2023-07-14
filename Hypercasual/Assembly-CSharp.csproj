@@ -42,7 +42,19 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets" />
+     <Folder Include="Assets\Ninja Character\Models\Materials" />
+     <Folder Include="Assets\LowCharacterPack" />
+     <Folder Include="Assets\LowCharacterPack\LowCharacter_demo" />
+     <Folder Include="Assets\LowCharacterPack\LowCharacter_demo\models\Materials" />
+     <Folder Include="Assets\LowCharacterPack\LowCharacter_demo\prefabs" />
+     <Folder Include="Assets\LowCharacterPack\LowCharacter_demo\prefabs\sample_scene" />
+     <Folder Include="Assets\Ninja Character\Demo" />
+     <Folder Include="Assets\Ninja Character\Prefabs" />
+     <Folder Include="Assets\Ninja Character\Models\Textures" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Ninja Character" />
+     <Folder Include="Assets\LowCharacterPack\LowCharacter_demo\models" />
+     <Folder Include="Assets\Ninja Character\Models" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
