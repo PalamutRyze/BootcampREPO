@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638249670957502170
-    m_Hash: 2408981072
+      ticks: 638250205248197590
+    m_Hash: 73432651
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/dlara/OneDrive/Masa\xFCst\xFC/BootcampREPO/Hypercasual/Packages"
-m_EditorVersion: 2021.3.22f1 (b6c551784ba3)
+m_EditorVersion: 2021.3.16f1 (4016570cf34f)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.0.1
   testable: 0
@@ -112,6 +112,15 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.17.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.0.0
     - 2.0.1
     - 2.0.3
     - 2.0.4
@@ -119,7 +128,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 2.0.5
+    verified: 1.17.7
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -156,7 +165,7 @@ m_ResolvedPackages:
     revision: 8740b4e630f877841cfa8e22ddfbcb237b70a9e6
     path: 
   unityLifecycle:
-    version: 2.0.1
+    version: 1.17.7
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
@@ -218,7 +227,7 @@ m_ResolvedPackages:
   - name: com.unity.editorcoroutines
     version: 1.0.0
   - name: com.unity.performance.profile-analyzer
-    version: 1.2.2
+    version: 1.1.1
   - name: com.unity.testtools.codecoverage
     version: 1.2.2
   - name: com.unity.settings-manager
@@ -306,6 +315,8 @@ m_ResolvedPackages:
     - 3.0.22
     - 3.0.24
     compatible:
+    - 3.0.16
+    - 3.0.17
     - 3.0.18
     - 3.0.20
     - 3.0.21
@@ -338,7 +349,7 @@ m_ResolvedPackages:
     revision: b40b39e6834c2915637f431d002d1f3dd8ec9ce5
     path: 
   unityLifecycle:
-    version: 3.0.18
+    version: 3.0.16
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.17
   testable: 0
@@ -384,6 +395,7 @@ m_ResolvedPackages:
     - 2.0.17
     - 2.0.18
     compatible:
+    - 2.0.16
     - 2.0.17
     - 2.0.18
     verified: 2.0.18
@@ -419,7 +431,7 @@ m_ResolvedPackages:
     revision: 1f126893bfb18ea9661fb15771613e841467073c
     path: 
   unityLifecycle:
-    version: 2.0.17
+    version: 2.0.16
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
@@ -1050,8 +1062,9 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0
     compatible:
+    - 1.7.8
     - 1.8.0
-    verified: 1.8.0
+    verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1086,7 +1099,7 @@ m_ResolvedPackages:
     revision: 0de66378b19e990494d98f39ecc2b6aa5ac65351
     path: 
   unityLifecycle:
-    version: 1.8.0
+    version: 1.7.8
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
@@ -2985,12 +2998,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.performance.profile-analyzer@1.2.2
+- packageId: com.unity.performance.profile-analyzer@1.1.1
   testable: 0
   isDirectDependency: 0
-  version: 1.2.2
+  version: 1.1.1
   source: 1
-  resolvedPath: "C:\\Users\\dlara\\OneDrive\\Masa\xFCst\xFC\\BootcampREPO\\Hypercasual\\Library\\PackageCache\\com.unity.performance.profile-analyzer@1.2.2"
+  resolvedPath: "C:\\Users\\dlara\\OneDrive\\Masa\xFCst\xFC\\BootcampREPO\\Hypercasual\\Library\\PackageCache\\com.unity.performance.profile-analyzer@1.1.1"
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3024,8 +3037,9 @@ m_ResolvedPackages:
     - 1.1.1
     - 1.2.2
     compatible:
+    - 1.1.1
     - 1.2.2
-    verified: 1.2.2
+    verified: 1.1.1
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -3039,16 +3053,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638108624620000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
+  datePublishedTicks: 637705021060000000
+  documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.performance.profile-analyzer.git
-    revision: 2c63f931588caa60a1fef33b1b250b20d952dc58
+    revision: 6dcda6aee96901e98a4f01b85589054b9274ba74
     path: 
   unityLifecycle:
-    version: 1.2.2
+    version: 1.1.1
     nextVersion: 
 - packageId: com.unity.testtools.codecoverage@1.2.2
   testable: 0
