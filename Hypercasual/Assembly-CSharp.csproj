@@ -41,12 +41,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Sc\charcont.cs" />
+     <Compile Include="Assets\Sc\PlayerMovement.cs" />
      <Compile Include="Assets\Assets\SimpleCollectiblesPack\SimpleCollectibleScript.cs" />
      <Compile Include="Assets\Sc\chracterCont.cs" />
-     <Compile Include="Assets\Sc\charcont.cs" />
      <Compile Include="Assets\Sc\Playercam.cs" />
      <Compile Include="Assets\Sc\MoveCamera.cs" />
-     <Compile Include="Assets\Sc\PlayerMovement.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Assets\Ninja Character\Models\Materials" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models" />
@@ -60,6 +60,7 @@
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models\Demos" />
      <Folder Include="Assets\Assets\SimpleCollectiblesPack\Materials" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs" />
+     <Folder Include="Assets\Cainos" />
      <Folder Include="Assets\Materials" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack" />
      <Folder Include="Assets\Assets\Ninja Character\Demo" />
@@ -694,8 +695,14 @@
      <Reference Include="Unity.VisualScripting.Flow.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Cinemachine">
+     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="com.unity.cinemachine.editor">
+     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
@@ -759,12 +766,6 @@
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Cinemachine">
-     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

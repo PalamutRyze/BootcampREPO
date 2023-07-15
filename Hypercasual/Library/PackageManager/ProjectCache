@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638250241754198125
-    m_Hash: 3789197324
+      ticks: 638250455057157987
+    m_Hash: 1387861710
   m_LockFileStatus:
     m_FilePath: "C:/Users/aonde/OneDrive/Masa\xFCst\xFC/BootcampREPO/Hypercasual/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638250241754268430
-    m_Hash: 779091618
+      ticks: 638250455057167995
+    m_Hash: 2733911644
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
