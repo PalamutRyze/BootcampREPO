@@ -41,61 +41,31 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Sc\charcont.cs" />
-     <Compile Include="Assets\Sc\PlayerMovement.cs" />
-     <Compile Include="Assets\Assets\SimpleCollectiblesPack\SimpleCollectibleScript.cs" />
-     <Compile Include="Assets\Sc\chracterCont.cs" />
-     <Compile Include="Assets\Sc\Playercam.cs" />
-     <Compile Include="Assets\Sc\MoveCamera.cs" />
+     <Compile Include="Assets\SimpleCollectiblesPack\SimpleCollectibleScript.cs" />
      <Folder Include="Assets" />
-     <Folder Include="Assets\Ninja Character\Models" />
-     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Materials" />
-     <Folder Include="Assets\Assets\Ninja Character\Models\Materials" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models" />
-     <Folder Include="Assets\Assets" />
-     <Folder Include="Assets\Ninja Character\Models\Textures" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Textures" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack\Prefabs\Gems" />
      <Folder Include="Assets\Ninja Character\Models\Materials" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Textures" />
      <Folder Include="Assets\SimpleCollectiblesPack\Prefabs\Gems" />
      <Folder Include="Assets\Cainos" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs\Demo" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs\Demo" />
-     <Folder Include="Assets\SimpleCollectiblesPack\Materials" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
-     <Folder Include="Assets\Ninja Character\Prefabs" />
-     <Folder Include="Assets\Ninja Character\Demo" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack" />
-     <Folder Include="Assets\SimpleCollectiblesPack\Models" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Scenes" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models\Demos" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack\Materials" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs" />
-     <Folder Include="Assets\Materials" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack" />
-     <Folder Include="Assets\Assets\Ninja Character\Demo" />
-     <Folder Include="Assets\Assets\Ninja Character\Prefabs" />
-     <Folder Include="Assets\Prefabs" />
-     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs" />
-     <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Materials" />
-     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Textures" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack\Models" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Scenes" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack\Textures" />
-     <Folder Include="Assets\Assets\Ninja Character\Models\Textures" />
-     <Folder Include="Assets\Assets\SimpleCollectiblesPack\Prefabs" />
-     <Folder Include="Assets\Assets\Ninja Character" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models\Demos" />
+     <Folder Include="Assets\SimpleCollectiblesPack\Materials" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Prefabs" />
+     <Folder Include="Assets\Ninja Character\Demo" />
+     <Folder Include="Assets\Ninja Character\Prefabs" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Materials" />
+     <Folder Include="Assets\SimpleCollectiblesPack\Models" />
      <Folder Include="Assets\SimpleCollectiblesPack\Textures" />
+     <Folder Include="Assets\Ninja Character\Models\Textures" />
      <Folder Include="Assets\SimpleCollectiblesPack\Prefabs" />
-     <Folder Include="Assets\Sc" />
      <Folder Include="Assets\SimpleCollectiblesPack" />
      <Folder Include="Assets\Scenes" />
-     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models\Demos" />
      <Folder Include="Assets\Ninja Character" />
-     <Folder Include="Assets\Assets\Ninja Character\Models" />
+     <Folder Include="Assets\Ninja Character\Models" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -717,14 +687,8 @@
      <Reference Include="Unity.VisualScripting.Flow.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Cinemachine">
-     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>C:\Users\aonde\OneDrive\Masaüstü\BootcampREPO\Hypercasual\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
