@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/menu.unity
-=======
-- path: Assets/Scenes/GameOver.unity
->>>>>>> aonder
+- path: Assets/Scenes/yeni sahne.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

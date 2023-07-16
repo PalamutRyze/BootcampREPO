@@ -5,5 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class Yenidendenebutton : MonoBehaviour
 {
-   
+    public void ResetTheGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
 }
