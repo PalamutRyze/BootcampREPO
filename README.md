@@ -86,3 +86,12 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 
 [Unity Team 55 Trello Backlog Board](https://trello.com/b/kOP6MuWH/u-55-bootcamp)
 ---
+# Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 300 puanın da eklenmesiyle bu sprint için toplam puan: 350'dir.
+- **Daily Scrum**-: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:
+- **Ürünün Durumu**: Ekran görüntüleri:
+- **Sprint Review**: Alınan kararlar: Oyun fikri bi anda değişti ve hypercasual bir oyun yapma fikrini TAHİRİ hariç herkes kabul etti. TAHİRİ'ye de ulaşılamadığı için cevap alınamadı. SOnra çalışmaları 180 derece döndürdük. Yaptığımız assetler ve hazır assetlerle yeni bir şeyler ortaya çıkartmaya çalıştık. Sprint Review katılımcıları: Zeynep KIZILAY, Ahmet Önder ÇELİK
+- **Sprint Retrospetive**:
+- Önünü kış tut, yaz çıkarsa ne ala şeklinde bundan sonraki hayatımızda ilerleyeceğiz.
+
+- **
