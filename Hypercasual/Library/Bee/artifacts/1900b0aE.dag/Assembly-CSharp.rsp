@@ -351,6 +351,7 @@
 "Assets/Sc/charcont.cs"
 "Assets/Sc/chracterCont.cs"
 "Assets/Sc/Engel.cs"
+"Assets/Sc/Exitbutton.cs"
 "Assets/Sc/MoveCamera.cs"
 "Assets/Sc/Playercam.cs"
 "Assets/Sc/PlayerMovement.cs"

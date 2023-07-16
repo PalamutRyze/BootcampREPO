@@ -41,15 +41,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Sc\Engel.cs" />
      <Compile Include="Assets\Sc\charcont.cs" />
      <Compile Include="Assets\Sc\PlayerMovement.cs" />
      <Compile Include="Assets\Assets\SimpleCollectiblesPack\SimpleCollectibleScript.cs" />
      <Compile Include="Assets\Sc\chracterCont.cs" />
-     <Compile Include="Assets\Sc\Playercam.cs" />
-     <Compile Include="Assets\Sc\MoveCamera.cs" />
-     <Compile Include="Assets\Sc\Engel.cs" />
-     <Compile Include="Assets\Sc\Score.cs" />
      <Compile Include="Assets\Sc\PlayerPoint.cs" />
+     <Compile Include="Assets\Sc\Playercam.cs" />
+     <Compile Include="Assets\Sc\Score.cs" />
+     <Compile Include="Assets\Sc\MoveCamera.cs" />
+     <Compile Include="Assets\Sc\Exitbutton.cs" />
      <Folder Include="Assets" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\Assets\Ninja Character\Models\Materials" />
