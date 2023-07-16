@@ -55,12 +55,14 @@
      <Compile Include="Assets\Sc\Score.cs" />
      <Compile Include="Assets\Sc\MoveCamera.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\Assets\Ninja Character\Models\Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Models" />
      <Folder Include="Assets\Image" />
      <Folder Include="Assets\TextMesh Pro\Sprites" />
+     <Folder Include="Assets\CartoonLowPolyCityLite\Textures" />
      <Folder Include="Assets\Assets\Low Poly Free Tree Pack\ExampleScene" />
      <Folder Include="Assets\Assets" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
@@ -69,6 +71,8 @@
      <Folder Include="Assets\models" />
      <Folder Include="Assets\Assets\SimpleCollectiblesPack\Prefabs\Gems" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Materials" />
+     <Folder Include="Assets\Pandazole_Ultimate_Pack" />
      <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\Cainos" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
@@ -80,6 +84,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Assets\Assets\Low Poly Free Tree Pack" />
      <Folder Include="Assets\TextMesh Pro" />
+     <Folder Include="Assets\CartoonLowPolyCityLite\Models" />
      <Folder Include="Assets\Assets\Low Poly Free Tree Pack\Models" />
      <Folder Include="Assets\Assets\Textures" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Scenes" />
@@ -98,6 +103,7 @@
      <Folder Include="Assets\Assets\Ninja Character\Prefabs" />
      <Folder Include="Assets\Prefabs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\CartoonLowPolyCityLite" />
      <Folder Include="Assets\Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack\Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <Folder Include="Assets\TextMesh Pro\Shaders" />
@@ -119,10 +125,12 @@
      <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
      <Folder Include="Assets\TextMesh Pro\Documentation" />
      <Folder Include="Assets\UI Toolkit\UnityThemes" />
+     <Folder Include="Assets\CartoonLowPolyCityLite\Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
      <Folder Include="Assets\Assets\Low Poly Free Tree Pack\Prefabs" />
      <Folder Include="Assets\Assets\Ninja Character\Models" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
+     <Folder Include="Assets\CartoonLowPolyCityLite\Prefabs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

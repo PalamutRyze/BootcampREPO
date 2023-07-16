@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67ab9ca2-9661-486e-8f5c-81d72bbefd1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Assets/Prefabs/Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Assets/Sc/menuscript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Assets/Sc/menuscript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Assets/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Assets/Scenes/GameOver.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Assets/Scenes/yeni sahne.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Assets/Scenes/yeni sahne.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/02/02cf579f4e7cfc9631396d816eddc5c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/03/03bf0e8f4fdc4c1f8b65d99b2ffb1745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/08/08a1c2f291cac98f34f3e12fde3710b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/0b/0b3c185aab8d2a2dec6de9a284dee687" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/0b/0b9887ec3d125adbf74906ee2354c1d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/0d/0d0b9f80195ce502eb28ef873e8214dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/0d/0d1a203b938b96ac86af367f39f830a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/0d/0d97144632e74b686e821f3b02a2c8a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/11/1130f12343521a1cec329c4051ff6c63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/11/116d9c26319a196e548dfb59317a35d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/15/1594141d20704629959fc2825c2b8c13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/17/176c13b24fc33ac232258429ba4df688" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/23/23d834e84e646605bb68a88e2f9e9749" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/27/2758f0f78fd5f7e24ae0c6e60e67c274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/2a/2a2a01a9b3c7a53bf89ef19611af9757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/2b/2b9f897a33ca9a3434d89eebb2d9439c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/2c/2cccb2dc9a2102d40c745de7e8ebb3d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/2e/2e770ba951e77bc09fbd45305da2dc5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/30/309f6360c1f77c1ec919195ff988083b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/31/3184e8fe958e36c8f4c38e7357e037e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/31/31c05af4103b5bd3640d2e456d7793e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/32/3274c6a120dcdadeef6aba7a7312a0e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/34/34f1a9a46c03f3e8703c14cceefe51a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/3a/3a398baffdb0e41432bd7b78e2799c40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/3a/3a67480bb8129eff1aa99871275af586" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/3b/3b4144d31273961ad7ee5007aae83895" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/3b/3b9daa84f9bf02000268e2bc711c0344" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/3b/3bbc5f6a38eeee42b7d45accb5e51f08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/40/40e31265097b5d406f810f2514d25c7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/45/45cd56cb8e53200d8ed9039373ed9227" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/4e/4e7bd87f538e20890ccc3ae695fea017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/4f/4f1eea45fedc78f63f23449bd91db78f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/50/50c39b006d9bc7cfc00db5551fc4248c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/51/51369b3561ec48615e7cb8937bd93d9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/55/554ac40ad33b1b53da77b5c190a3ebd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/57/57e05d86d845ba44d8faf0bb44cdcfda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/5d/5d1a6101510fddda9b520d8948147701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/64/648ec3e025c6db87f69de53b1839cd58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/67/67c3bcce0946ee322a3cb1ecd5d77279" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/68/68b307348e7e036a94a07aa03528ee24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/69/696f60367e4a138b05c376fb4076fcb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/6f/6ffbf154e3a5d10bd33b83aa38010f61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/70/70a5bc38684b4a4fb5eb054737218b91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/71/710ac4ffb43bf93823ff3ecd3b52e457" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/71/71e30370dd9429f3e7240d0580d724cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/72/7278d60e0c41b20ff65e5204e0a55064" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/72/72bb331be7c14107b9c3a30603287ca4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/76/76f53717b6bb69fff8fe93d18ae88f16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/77/77e4dd9819961c819d298d8be6ebce74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/7d/7df060b951ba02a371bdd729f4616ee5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/7f/7f129763eeffbf1040f2d08dcad11a98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/7f/7f12e596684866ae54958fa6d77ec1da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/81/812660bfc669948cc5d7422d74ea4beb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/81/81399fefc7404a63a771085eb1fa17db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/81/817656194ca5f21655e08090d9b1ca18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/81/81a8895095332eea053b4c01eecb9105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/87/8705751f53f2f38d43124268e53d3183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/88/8832a7c981c79df29b7405216994c089" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/88/887d4f368334ebf9905b602d1e8ffdcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/8c/8ce744ffaeeb6a1c341a33877e99657d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/8d/8d73bb9dbea3f67a26711cb078ff7f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/8d/8dc6d009fe998e38f68520d6c7ca7e65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/8f/8f9ee1127b562c7ef49e76b4a5fb7d8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/91/91f11f6be12dd96c2a85f64d01808f6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/9b/9bca2286bdd45c3442fecfa8a5bfba0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/9c/9cb0255b2a8ac74f9468a31136c2faf4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/9e/9e1cabecc127370ebb3e092eac30803c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/9e/9e7b8149a383a682fdb1a5b489fd30cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/9f/9f2a143868070d224bbe4bdad8336a3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/a0/a00762d978849c02ec86ce3b184b9e31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/a5/a519975daec133a89d365a5e8983cbc7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/a5/a5521472cc8384bf08e9408798f05bbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/a5/a56c426c65acc47e6159e0e4e4939027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/b0/b07ef8b523c0ed788b2a855f10364390" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/b2/b298c51a1a93d41b03041eed11b905bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/b3/b3b9b4e98120173ab1444d6ad4440bc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/b7/b7d0b54f8d88f98108fe28c2af461138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/ba/ba99c4465344cf414ad8bb0a01fde4a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/c0/c0aa68c3959382fd6fc432b450e6c2e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/c2/c2417629a7a433fcf2a8e4303f920b62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/c2/c2ac9ff397a0a1c2dfc5ddfb0ed05488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/c2/c2f82779541d27feb1962de40ea0a6f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/c9/c9731722191e880ac7f4100e7ba4ef98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/cb/cb4d37fca905ec9142b7d8747fd2804c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/cd/cdf290df6bfcadc0202ff5f64d6c4425" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/d6/d66e3eaa5d69bef6279b36f997e790c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/d7/d7efa2580f8b1c5ceeafefa3872760b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/dc/dc25560381a63b9d5effe70da5de681e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/dc/dc9076b2a6d8cc052d1d9bdcb4d554bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/dd/ddcd72a94a62c486a972bdb576a42836" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/e0/e0460d3578b4fb621558f4bbe721a54d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/e3/e3d2986b70583606cdee2f92a6c15f2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/e4/e40c975883ff149cf4860b33589d49e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/e4/e410936baaa2d23c23b2570178528c8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/ea/eadbf3fca0fea4d408b152b0c321e01c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/f0/f0740ebe5f3e1eaf09727fbc710d1c3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/f1/f127872b0b09eb79929a342630c0702d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/f6/f6b62de495920134eceb3501f4a5e1db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/f7/f762f52dd23846af754565648b95f63f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Artifacts/fa/fafef469c6e368b51fe8031195ac403a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/1900b0aE.dag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/1900b0aE.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/backend_profiler0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/backend_profiler0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/backend_profiler1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/backend_profiler1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/buildprogram0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/StateCache/PrefabStageHierarchy/63/63fbb7d9f5a3dcb09c53764f24c13375.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/StateCache/PrefabStageHierarchy/63/63fbb7d9f5a3dcb09c53764f24c13375.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker1-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/AssetImportWorker2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hypercasual/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Hypercasual/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2SfkYaxwBcO8OefD0lKMZMf6xyU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\aonde\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\aonde\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\aonde\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ab9ca2-9661-486e-8f5c-81d72bbefd1c" name="Changes" comment="" />
+      <created>1689545072501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689545072501</updated>
+      <workItem from="1689545077396" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
