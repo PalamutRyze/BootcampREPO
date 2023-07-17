@@ -2007,6 +2007,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6778694465220437700, guid: a0b1b49f34c846448802d798d2d1d73f, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6975490218686954629, guid: a0b1b49f34c846448802d798d2d1d73f, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
