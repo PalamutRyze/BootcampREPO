@@ -58,6 +58,7 @@
      <Compile Include="Assets\Sc\MoveCamera.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
+     <Folder Include="Assets\Anim" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\Assets\Ninja Character\Models\Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
