@@ -17,7 +17,7 @@ Takım Unity 55
 
 ## Ürün İsmi
 
---Town Massacre--
+"Thief Rush"
 
 ## Product Backlog URL
 
@@ -25,15 +25,10 @@ Takım Unity 55
 
 ## Ürün Açıklaması
 
-Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 1517 yılında 55 yaşında olan bir papazı yönetiyoruz. Papazımız lanetlnemiş köyleri lanetten kurtaran, köy köy kasaba kasaba dolaşan bir adamdır. Bir kasabaya laneti kaldırmak için atıyla yola düşer. Karakterimiz köydeki laneti kaldırmaya çalışırken orada farklı bir varlığın oldunu sezer. Oyunun ana amacı bu varlıktan kaçınarak laneti kaldırmaya çalışmasıdır. Oyun içinde puzzle çözme , eşyalar ve mekanlar ile etkileşime girme ve ipuçlarını takip ederek ayin için gerekli malzemeleri bulma gibi bir takım mekanikler vardır. Ayrıca seslendirme ile karakterin olaylara karşı yorum yapması vb. özellikler de barındırır.
+"""
 
 ## Ürün Özellikleri
-- Kullanıcıyı oyuna odaklayan ve dehşete düşürmesi.  
-- Oyunun belirli bir hikaye üzerine kurulu olması.  
-- Ayin yapma,büyücülük gibi mantık dışı şeylerin işlenmesi.  
-- Mitolojik varlık ile oyuncuya her saniye ilmek ilmek korkunun işlenmesi.  
-- Kanlı sahneler ve tasarımlar ile oyunu daha gerçekçi hale getirmesi.  
-- Low Poly tasarımı ile göz yormaması ve yaşı küçük oyuncular için oynanabilir olması.
+""""
 ## Hedef Kitle
 - Farklı bir korku oyunu tasarımı arayan oyuncular
 - Adrenilen seven oyuncular
@@ -92,8 +87,13 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 ![Screenshot 2](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/2.png)
 ![Screenshot 3](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/4.png)
 ![Screenshot 4](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/5.png)
-- **Sprint Review**: Alınan kararlar: Oyun fikri bi anda değişti ve hypercasual bir oyun yapma fikrini TAHİRİ hariç herkes kabul etti. TAHİRİ'ye de ulaşılamadığı için cevap alınamadı. SOnra çalışmaları 180 derece döndürdük. Yaptığımız assetler ve hazır assetlerle yeni bir şeyler ortaya çıkartmaya çalıştık. Sprint Review katılımcıları: Zeynep KIZILAY, Ahmet Önder ÇELİK
+- **Sprint Review**: Alınan kararlar: Oyun fikri bi anda değişti ve hypercasual bir oyun yapma fikrini TAHİRİ hariç herkes kabul etti. TAHİRİ'ye de ulaşılamadığı için cevap alınamadı. Sonra çalışmaları 180 derece döndürdük. Yaptığımız assetler ve hazır assetlerle yeni bir şeyler ortaya çıkartmaya çalıştık. Sprint Review katılımcıları: Zeynep KIZILAY, Ahmet Önder ÇELİK
 - **Sprint Retrospetive**:
 - Önünü kış tut, yaz çıkarsa ne ala şeklinde bundan sonraki hayatımızda ilerleyeceğiz.
 
 [Unity Team 55 Trello Backlog Board](https://trello.com/b/kOP6MuWH/u-55-bootcamp)
+
+## Kullandığımız Assetler
+https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954
+https://assetstore.unity.com/packages/3d/props/pandazole-simple-game-low-poly-pack-210274
+https://assetstore.unity.com/packages/3d/props/simple-collectibles-pack-123092
