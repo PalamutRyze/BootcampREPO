@@ -50,10 +50,12 @@
      <Compile Include="Assets\Sc\menuscript.cs" />
      <Compile Include="Assets\Sc\chracterCont.cs" />
      <Compile Include="Assets\Sc\PlayerPoint.cs" />
-     <Compile Include="Assets\Sc\sceneManager.cs" />
      <Compile Include="Assets\Sc\Playercam.cs" />
      <Compile Include="Assets\Sc\Score.cs" />
      <Compile Include="Assets\Sc\MoveCamera.cs" />
+     <Compile Include="Assets\Sc\LivesControl.cs" />
+     <Compile Include="Assets\Sc\Nextlevel2.cs" />
+     <Compile Include="Assets\Sc\NextLevel.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Pandazole_Ultimate_Pack\Pandazole Simple Game Pack" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
