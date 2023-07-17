@@ -1140,6 +1140,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 321151400}
     m_Modifications:
+    - target: {fileID: 2782121935350764331, guid: 999153256c86f24448df1d1a2ee7239b, type: 3}
+      propertyPath: m_text
+      value: THIEF RUSH
+      objectReference: {fileID: 0}
     - target: {fileID: 2782121935350764332, guid: 999153256c86f24448df1d1a2ee7239b, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
