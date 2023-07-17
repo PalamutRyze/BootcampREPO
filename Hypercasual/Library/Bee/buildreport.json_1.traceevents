@@ -1,0 +1,535 @@
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1689626145823243, "dur": 1571927, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626145823544, "dur": 2712, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626145826259, "dur": 45208, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626145871475, "dur": 626658, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626146498136, "dur": 896536, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626147394677, "dur": 491, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626147395910, "dur": 51, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1689626146348244, "dur": 135863, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146349303, "dur": 37335, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146468935, "dur": 4284, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146473222, "dur": 10879, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146474014, "dur": 9340, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146488717, "dur": 1001, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1689626146488060, "dur": 1677, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626147396143, "dur": 364, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1689626146556643, "dur":1062, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626146557709, "dur":41, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1689626146557759, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1689626146557775, "dur":621, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1689626146558427, "dur":537, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626146558964, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382043, "dur":612, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382655, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382668, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382670, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382681, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382684, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382692, "dur":53, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382745, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382750, "dur":37, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382787, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382793, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382794, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382799, "dur":16, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382815, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382821, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382823, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382827, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382829, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382833, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382834, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382840, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382841, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382845, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382847, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382852, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382853, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382857, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382859, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382865, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382866, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382870, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382872, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382877, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382932, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147382977, "dur":2944, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1689626146560081, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146560081, "dur":2052, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146562134, "dur":1077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1689626146563214, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146565762, "dur":3745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1689626146569555, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1689626146569710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146570404, "dur":7490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1689626146577946, "dur":60052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146638003, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146638015, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146639575, "dur":33970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146673553, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146673570, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146674943, "dur":63648, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146738597, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146738609, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146739752, "dur":48663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146788421, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146788434, "dur":4193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146792675, "dur":34976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146827657, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146827668, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146829923, "dur":39351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146869280, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626146869294, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626146870569, "dur":346808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626147217382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689626147217390, "dur":2207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689626147219622, "dur":162453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146558966, "dur":2, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146558968, "dur":3103, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146562077, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1689626146562082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146563485, "dur":392, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1689626146563880, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1689626146563920, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146564400, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1689626146566200, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1689626146566364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146566444, "dur":4087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1689626146570580, "dur":104618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146675203, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146675216, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146676409, "dur":22174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146698591, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146698625, "dur":4878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146703555, "dur":22889, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146726452, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146726467, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146727639, "dur":27087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146754774, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146754788, "dur":2756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146757586, "dur":31004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146788594, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146788604, "dur":2573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146791225, "dur":32684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146823914, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626146823925, "dur":4662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626146828630, "dur":209247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626147037886, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626147037902, "dur":6381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626147044337, "dur":162970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626147207335, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689626147207347, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689626147208576, "dur":173592, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146559016, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146559017, "dur":3201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146562219, "dur":652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1689626146562873, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146565156, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1689626146568270, "dur":701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1689626146568976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146568986, "dur":2938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1689626146572038, "dur":30542, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146602606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146602718, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146604295, "dur":31823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146636126, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146636144, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146638139, "dur":149758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146787905, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146787921, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146789545, "dur":26490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146816041, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146816054, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146818229, "dur":47215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146865452, "dur":13, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626146865480, "dur":2769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626146868286, "dur":161792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626147030083, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626147030095, "dur":1326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626147031458, "dur":166470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626147197934, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689626147197945, "dur":1408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689626147199405, "dur":182710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626146560067, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626146560067, "dur":2079, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626146562146, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1689626146562625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626146565776, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1689626146568681, "dur":473428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689626147042115, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626147042126, "dur":44236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689626147086404, "dur":201326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689626147287735, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689626147287757, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689626147288717, "dur":93421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146560102, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146560104, "dur":1968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146562077, "dur":52498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1689626146614582, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146614968, "dur":3344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1689626146618365, "dur":24551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146642922, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146643806, "dur":6712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146650557, "dur":60501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146711064, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146711076, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146712340, "dur":27029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146739375, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146739387, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146741065, "dur":60979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146802051, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146802064, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146804287, "dur":169684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146973978, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626146973990, "dur":2453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626146976490, "dur":283157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626147259652, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689626147259662, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689626147261654, "dur":120490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146560103, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146560104, "dur":2032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146562136, "dur":20259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1689626146582399, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146582525, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1689626146583911, "dur":57255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626146641201, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146641213, "dur":8566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626146649837, "dur":215762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626146865606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626146865620, "dur":2128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626146867803, "dur":331827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626147199634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689626147199651, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689626147201069, "dur":180944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146560123, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146560123, "dur":2008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146562131, "dur":554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1689626146562689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146565884, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1689626146568420, "dur":156824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146725252, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146725392, "dur":5572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146731011, "dur":29778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146760797, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146760813, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146763164, "dur":40056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146803234, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146804395, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146806066, "dur":28816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146834888, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146834900, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146836513, "dur":125655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146962174, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626146962199, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626146963955, "dur":192552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626147156523, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689626147156533, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689626147158251, "dur":223785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146560108, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146560108, "dur":2024, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146562133, "dur":22760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1689626146584900, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146584932, "dur":5402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1689626146590385, "dur":171622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146762283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146762294, "dur":2980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146765326, "dur":23788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146789120, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146789132, "dur":1558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146790732, "dur":83001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146873740, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626146873753, "dur":15013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626146888819, "dur":154552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626147043377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626147043389, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626147046399, "dur":333276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626147379681, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689626147379692, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689626147381947, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1689626147381949, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146558999, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146559000, "dur":3223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146562224, "dur":20765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1689626146582995, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146583020, "dur":4100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1689626146587175, "dur":24418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146611600, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146611614, "dur":4789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146616451, "dur":25402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146641859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146641870, "dur":8054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146649970, "dur":26569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146676559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146676570, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146677991, "dur":71598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146749595, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146749608, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146750881, "dur":27331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146778221, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146778237, "dur":1365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146779643, "dur":25879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146805527, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146805538, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146807306, "dur":22271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146829583, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146829597, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146830782, "dur":79403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146910191, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626146910203, "dur":19973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626146930221, "dur":141455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626147071684, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626147071698, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626147073073, "dur":269204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626147342282, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689626147342291, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689626147343227, "dur":38899, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146559047, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146559048, "dur":3168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146562216, "dur":19300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1689626146581522, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146581547, "dur":4800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1689626146586419, "dur":54794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146641218, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146641229, "dur":6290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146647564, "dur":177846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146825415, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146825425, "dur":2924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146828405, "dur":56342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146884756, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626146884771, "dur":4260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626146889078, "dur":274963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626147164047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689626147164060, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689626147165987, "dur":216050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146559082, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146559083, "dur":3132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146562216, "dur":590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1689626146562810, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146565360, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1689626146568350, "dur":58512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146626870, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146628184, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146629656, "dur":107740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146737405, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146737421, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146739419, "dur":21957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146761382, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146761397, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146763250, "dur":52091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146815350, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146815365, "dur":1685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146817127, "dur":84953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146902089, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626146902104, "dur":1252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626146903395, "dur":298783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626147202183, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689626147202193, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689626147203824, "dur":178187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146559130, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146559131, "dur":3076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146562207, "dur":657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1689626146562866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146565338, "dur":3752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1689626146569154, "dur":115834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1689626146684995, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146685007, "dur":4836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1689626146689885, "dur":50053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146739943, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146739954, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146741551, "dur":21692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146763248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146763258, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146765129, "dur":26820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146791955, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146791967, "dur":1176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146793188, "dur":31068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146824261, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146824271, "dur":4656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146828969, "dur":45783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146874758, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146874769, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146876188, "dur":92656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146968851, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626146968867, "dur":1329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626146970240, "dur":59010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626147029259, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626147029275, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626147031043, "dur":190956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626147222003, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689626147222012, "dur":1214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689626147223273, "dur":158924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146559223, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146559224, "dur":2958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146562182, "dur":18450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1689626146580640, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146580774, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1689626146582945, "dur":55890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146638842, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146638855, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146640311, "dur":47071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146687390, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146687404, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146688825, "dur":51463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146740295, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146740371, "dur":2589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146743001, "dur":62198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146805205, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146805218, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146807365, "dur":26330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146833702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146833713, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146836021, "dur":149146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146985175, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626146985195, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626146986823, "dur":256094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626147242926, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689626147242942, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689626147245268, "dur":136902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146559425, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146559426, "dur":2745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146562172, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1689626146562608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146564435, "dur":3716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1689626146568191, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":14, "ts":1689626146568544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146568555, "dur":2425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":14, "ts":1689626146571025, "dur":27961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146598994, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146599292, "dur":4338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146603690, "dur":35162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146638859, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146638872, "dur":3256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146642177, "dur":68594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146710777, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146710788, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146713279, "dur":48168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146761451, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146761462, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146763830, "dur":142715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146906551, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626146906565, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626146908109, "dur":133687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626147041803, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147041818, "dur":3732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626147045594, "dur":76926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626147122529, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147122545, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689626147125136, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1689626147125187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147125257, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1689626147126637, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147126677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147126685, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147129614, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147129662, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147129671, "dur":6596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147136315, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147136358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147136369, "dur":3732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147140148, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147140191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147140202, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147141247, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1689626147141380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147141389, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1689626147142306, "dur":1074, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1689626147143386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147143396, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1689626147144967, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147145005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147145013, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147147457, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147147497, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147147536, "dur":1573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147149234, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147149286, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147149296, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147150357, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1689626147150397, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147150405, "dur":1592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1689626147152038, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147152080, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147152093, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1689626147153781, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1689626147153824, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147153832, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1689626147154827, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147154868, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147154875, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1689626147156000, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1689626147156043, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147156051, "dur":992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1689626147157077, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1689626147157214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689626147157221, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1689626147158898, "dur":223138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146559627, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146559628, "dur":2528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146562156, "dur":22711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1689626146584873, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146584906, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1689626146586396, "dur":25799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146612201, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146612214, "dur":9367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146621623, "dur":22474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146644105, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146644115, "dur":6006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146650162, "dur":58843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146709012, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146709028, "dur":1100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146710166, "dur":36809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146746984, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146746999, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146748402, "dur":50495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146798906, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146798922, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146800364, "dur":23096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146823468, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146823484, "dur":2937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146826473, "dur":26041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146852524, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146852542, "dur":2106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146854695, "dur":101803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146956507, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626146956525, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626146958074, "dur":60843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147018926, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626147018944, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147020233, "dur":75943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147096186, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626147096204, "dur":1383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147097627, "dur":60938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147158570, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689626147158580, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689626147160915, "dur":221097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146559863, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146559864, "dur":2286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146562150, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1689626146562791, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146566235, "dur":3202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1689626146569500, "dur":54463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual.exe" }}
+,{ "pid":12345, "tid":16, "ts":1689626146623968, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146623979, "dur":10155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual.exe" }}
+,{ "pid":12345, "tid":16, "ts":1689626146634179, "dur":23050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146657237, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146657252, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146658658, "dur":199375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146858040, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146858053, "dur":2401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146860499, "dur":114615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146975120, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626146975133, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626146976407, "dur":270231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626147246641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689626147246649, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeyna/OneDrive/Masast/PROJELER/Hypercasual_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689626147247589, "dur":134571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689626147387643, "dur":1776, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1689626147396599, "dur": 3830, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1689626147395878, "dur": 4587, "ph": "X", "name": "Write chrome-trace events", "args": {} },

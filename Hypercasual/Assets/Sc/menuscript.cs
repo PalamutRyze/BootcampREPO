@@ -10,6 +10,10 @@ public class menuscript  : MonoBehaviour
         SceneManager.LoadScene(1);
 
    }
+    public void RepeatButton()
+    {
+        SceneManager.LoadScene(1);
+    }
     public void QuitButton()
     {
         Application.Quit();
