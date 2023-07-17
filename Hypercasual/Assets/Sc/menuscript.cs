@@ -18,4 +18,9 @@ public class menuscript  : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void Restartbutton()
+    {
+        SceneManager.LoadScene(1);
+    }
 }

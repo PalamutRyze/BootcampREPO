@@ -76,9 +76,6 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 - **Sprint Board Update**: Sprint board Screenshotları:
 ![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Trello%20Spr%202.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-
-
 - **Sprint Review**: Alınan kararlar: Scrum toplantılarını 2 günde 1 Whatsapp ve Discord üzerinden paylaşılmasına karar verildi. Boş olunan vakitlerde birlikte çalışılması öngörüldü. Bitmemiş kodlar ve assetleri bitirmek ilk iş olarak yapılması kararı alındı. Birleştirme işi ise 1 haftaya kadar yapılması öngörülüyor. Sprint Review katılımcıları: Zeynep KIZILAY,Ahmet Önder ÇELİK
 - **Sprint Retrospective**:
 - Takım üyelerinin aktif olmaması projeyi çok yavaşlatıp durma noktasına getirdi.
@@ -86,3 +83,17 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 
 [Unity Team 55 Trello Backlog Board](https://trello.com/b/kOP6MuWH/u-55-bootcamp)
 ---
+# Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 300 puanın da eklenmesiyle bu sprint için toplam puan: 350'dir.
+- **Daily Scrum**-: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:
+- **Ürünün Durumu**: Ekran görüntüleri:
+- - **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 1](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/1.png)
+![Screenshot 2](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/2.png)
+![Screenshot 3](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/4.png)
+![Screenshot 4](https://github.com/PalamutRyze/BootcampREPO/blob/main/Hypercasual/Assets/Image/5.png)
+- **Sprint Review**: Alınan kararlar: Oyun fikri bi anda değişti ve hypercasual bir oyun yapma fikrini TAHİRİ hariç herkes kabul etti. TAHİRİ'ye de ulaşılamadığı için cevap alınamadı. SOnra çalışmaları 180 derece döndürdük. Yaptığımız assetler ve hazır assetlerle yeni bir şeyler ortaya çıkartmaya çalıştık. Sprint Review katılımcıları: Zeynep KIZILAY, Ahmet Önder ÇELİK
+- **Sprint Retrospetive**:
+- Önünü kış tut, yaz çıkarsa ne ala şeklinde bundan sonraki hayatımızda ilerleyeceğiz.
+
+[Unity Team 55 Trello Backlog Board](https://trello.com/b/kOP6MuWH/u-55-bootcamp)

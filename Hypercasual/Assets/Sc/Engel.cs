@@ -12,12 +12,12 @@ public class Engel : MonoBehaviour
     private void Awake()
     {
         _scene = SceneManager.GetActiveScene();
-        Debug.Log(_scene.name);
+        Debug.Log("Can gitti mq");
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("PlayerObj"))
+        if (other.gameObject.CompareTag("Player"))
         {
             Score.lives--;
             SceneManager.LoadScene(_scene.name);
