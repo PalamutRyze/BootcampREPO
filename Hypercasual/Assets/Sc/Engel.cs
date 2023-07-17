@@ -12,7 +12,7 @@ public class Engel : MonoBehaviour
     private void Awake()
     {
         _scene = SceneManager.GetActiveScene();
-        Debug.Log("Can gitti mq");
+        Debug.Log("Can gitti aga");
     }
 
     private void OnTriggerEnter(Collider other)
